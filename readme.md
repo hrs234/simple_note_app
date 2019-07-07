@@ -1,0 +1,74 @@
+
+# Simple Note App
+### an part of frontend simple_note_server
+
+
+- # Preview of application
+  ### click image below to play an video
+
+[![No Video](http://img.youtube.com/vi/Fgz6cXm1llo/0.jpg)](http://www.youtube.com/watch?v=Fgz6cXm1llo "Apps Preview, click here to play the video")
+
+- ## Run Apps via development mode
+  
+  - Requirements
+
+    click the name to download or read guides installation
+
+    1. [Node.js](https://nodejs.org/en/download/ "link to download the node.js")
+    2. [react-native-cli](https://facebook.github.io/react-native/docs/getting-started "link to guide installing react-native-cli") 
+    3. [Backend server](https://github.com/hrs234/simple_note_server.git "link to download the backend server") 
+
+
+  - installation 
+    
+    - firstly clone this git and place into your workspace folder
+
+
+    - and run cd command via bash or cmd windows
+    
+    ```
+        cd [YOUR_DIRECTORY_WORKSPACE]
+    ```
+
+    - after that type this command
+  
+    ```
+        //for Android
+
+        react-native run-android
+
+        //for IOS
+
+        react-native run-ios
+    ```
+
+
+ - ## Installing Apps via APK
+        
+    - coming soon (backend server not installed in host)
+
+
+ - # Screenshoot Application
+
+ - ## Main Pages
+
+    <img src="screenshoots/home.jpg" alt="no photo" width="300"/> 
+
+ - ## Ascending descending selection
+
+    <img src="screenshoots/asc_desc.jpg" alt="no photo" width="300"/>
+
+ - ## Drawer for listing category and adding category
+
+    <img src="screenshoots/drawer_category.jpg" alt="no photo" width="300"/>
+
+
+ - ## adding new notes page
+
+    <img src="screenshoots/add_note.jpg" alt="drawing" width="300"/>
+
+ - ## update notes page
+
+    <img src="screenshoots/update_note.jpg" alt="drawing" width="300"/>
+
+

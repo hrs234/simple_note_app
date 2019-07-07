@@ -1,0 +1,1 @@
+export const HOST_API = 'http://192.168.6.179:4000';

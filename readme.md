@@ -45,7 +45,13 @@
 
  - ## Installing Apps via APK
         
-    - coming soon (backend server not installed in host)
+    - download [simpleNotes.apk](https://drive.google.com/open?id=1Fqo2V_PzLaD4KivEy65HD7WVG2sKP15X "click here to download APK file installation")
+  
+    - copy that apk to your devices
+
+    - after that touch the apk file in where your store the apk file
+
+    - and install it
 
 
  - # Screenshoot Application
